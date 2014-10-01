@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Loops, Methods, Classes</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Problem_7_Library</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/Z/workspace/Loops,Method,Clsses-Homework/Problem_7_Library</location>
+		</link>
+		<link>
+			<name>file/numbers.txt</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Z/workspace/Loops, Methods, Classes/src/numbers.txt</location>
+		</link>
+		<link>
+			<name>src/nu</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Z/workspace/Loops, Methods, Classes/src/numberstxt.txt</location>
+		</link>
+		<link>
+			<name>src/numbers.txt</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Z/workspace/Loops, Methods, Classes/src/numbers.txt</location>
+		</link>
+		<link>
+			<name>src/numberstxt.txt</name>
+			<type>1</type>
+			<location>C:/Documents and Settings/Z/workspace/Loops, Methods, Classes/src/numberstxt.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>

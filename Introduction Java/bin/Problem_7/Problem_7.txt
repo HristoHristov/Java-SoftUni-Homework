@@ -1,0 +1,2 @@
+javac  Sum_two_numbers.class
+java  Sum_two_numbers
